@@ -113,31 +113,7 @@ These datasets are indexed into a FAISS vector store for semantic search.
 
 * **Framework:** React + Next.js (App Router)
 * **Styling:** Tailwind CSS
-* **Theme:** Blue (#BHC Blue) and white, matching BHC Global branding
 
----
-
-## 🤝 Contributing
-
-Pull requests are welcome!
-If you’re adding new content or functionality:
-
-1. Fork the repo
-2. Create a feature branch
-3. Submit a PR with a clear description of your changes
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 📬 Contact
-
-For business inquiries, please visit: [BHC Global Contact](https://bhcglobal.com/contact)
-For technical support, email: `your-email@example.com`
 
 ```
 
