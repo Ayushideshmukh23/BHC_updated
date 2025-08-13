@@ -1,0 +1,17 @@
+# Environment
+.env
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Python
+.venv/
+__pycache__/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log

@@ -1,0 +1,149 @@
+[
+    {
+      "url": "https://bhcglobal.com",
+      "headings": [
+        "Ready to power your digital future?",
+        "AMI InsightAccelerator",
+        "──",
+        "──"
+      ],
+      "content": "Start here - intelligence that improves every customer interaction Amplifying the Value of AMI 1.0 and 2.0 Intelligence Interested in working with us? Stay up to date with the latest news and announcements Careers Locations BHC Portal Website→ 1-800-253-3449 90 Airpark Dr Ste 200, Rochester, NY 14624 X Website→ 1-800-253-3449 295 Robinson St, Suite 101 Oakville, ON L6J 1G7 X"
+    },
+    {
+      "url": "https://bhcglobal.com/amiaccelerator",
+      "headings": [
+        "AMI InsightAccelerator",
+        "Amplifying the Value of AMI 1.0 and 2.0 Intelligence",
+        "Today’s utilities are harvesting less than 20% of the potential insights from their investments in AMI infrastructure. The AMI InsightAccelerator unlocks the remaining value, improving operations, customer engagement, and financial outcomes.",
+        "Core Capabilities"
+      ],
+      "content": "The AMI InsightAccelerator is BHC’s framework that leverages AMI 1.0/2.0 data to drive operational and customer-centric use cases. It focuses on rapid discovery and deployment of high-impact insights: outage detection and restoration, theft/tamper analytics, high bill complaint reduction, targeted customer programs, and meter performance monitoring. By blending utility domain expertise, data science accelerators, and a scalable delivery model, BHC helps utilities move from raw AMI data to measurable business value."
+    },
+    {
+      "url": "https://bhcglobal.com/amiaccelerator#capabilities",
+      "headings": [
+        "Core Capabilities",
+        "What the Accelerator Delivers"
+      ],
+      "content": "• Outage & Restoration Analytics: early detection of outages and verification of restoration events. • Theft & Non-Technical Loss: identify abnormal usage patterns and tamper events. • High Bill & Billing Accuracy: isolate meter/interval anomalies and target bill investigation. • Voltage & Power Quality: track sustained low/high voltage trends and service issues. • Customer Segmentation: micro-segmentation for demand response and energy efficiency programs. • Meter Health & Network Performance: detect failing meters, communication gaps, and firmware issues. • Safety & Risk: hazardous conditions from backfeed, neutral issues. • Fleet & Field Optimization: route and crew prioritization using AMI + GIS."
+    },
+    {
+      "url": "https://bhcglobal.com/services",
+      "headings": [
+        "Services",
+        "What We Do"
+      ],
+      "content": "BHC Global delivers strategy, implementation, and managed services for the utility industry, with particular expertise across meter-to-cash, customer experience, outage & restoration, and advanced analytics. Our teams combine domain knowledge with modern cloud, data, and integration practices to deliver outcomes quickly."
+    },
+    {
+      "url": "https://bhcglobal.com/services#cx",
+      "headings": [
+        "Customer Experience & Billing",
+        "Oracle Utilities",
+        "Salesforce",
+        "AMI to CX"
+      ],
+      "content": "Customer Experience & Billing: Implement + optimize Oracle Utilities (CCS/C2M/MDM), Salesforce, and bespoke portals. Improve first contact resolution, reduce service costs, and uplift CSAT via intelligent workflows and proactive notifications. AMI-to-CX: connect meter events and insights with customer channels to preempt issues, personalize outreach, and accelerate bill investigation."
+    },
+    {
+      "url": "https://bhcglobal.com/services#grid",
+      "headings": [
+        "Grid & Operations",
+        "AMI 1.0/2.0",
+        "Outage & Restoration",
+        "Power Quality"
+      ],
+      "content": "Grid & Operations: Analytics for outage/restoration verification, non-technical loss, voltage/power quality, and meter health. AMI 1.0/2.0: organize interval data, firmware states, and communication logs into actionable dashboards and alerts."
+    },
+    {
+      "url": "https://bhcglobal.com/services#delivery",
+      "headings": [
+        "Delivery Model",
+        "Accelerators",
+        "Outcomes"
+      ],
+      "content": "Delivery Model: rapid discovery → use case backlog → pilot → scale. Accelerators: library of pre-built data models, feature stores, dashboards, and detection templates to speed time-to-value. Outcomes: reduced truck rolls, improved billing accuracy, higher program enrollment, and improved SAIDI/SAIFI performance."
+    },
+    {
+      "url": "https://bhcglobal.com/careers",
+      "headings": [
+        "Careers at BHC",
+        "Why Join"
+      ],
+      "content": "BHC hires utility domain experts, data scientists, cloud engineers, and delivery leaders. Candidates work on AMI analytics, CX platforms, and grid optimization projects. Locations include Rochester, NY and Oakville, ON."
+    },
+    {
+      "url": "https://bhcglobal.com/locations",
+      "headings": [
+        "Locations",
+        "Contact"
+      ],
+      "content": "90 Airpark Dr Ste 200, Rochester, NY 14624; 295 Robinson St, Suite 101, Oakville, ON L6J 1G7. US Toll Free: 1-800-253-3449."
+    },
+    {
+      "url": "https://bhcglobal.com/industries#utilities",
+      "headings": [
+        "Industries",
+        "Utilities Focus"
+      ],
+      "content": "BHC focuses on electric, gas, and water utilities with services spanning AMI analytics, meter-to-cash, CX, outage management, and data platforms."
+    },
+    {
+      "url": "https://bhcglobal.com/platforms#oracle",
+      "headings": [
+        "Platforms",
+        "Oracle Utilities",
+        "C2M / CCS / MDM"
+      ],
+      "content": "Oracle Utilities expertise includes C2M/CCS/MDM implementations and optimizations, integrations with AMI head-ends, and analytics across meter-to-cash."
+    },
+    {
+      "url": "https://bhcglobal.com/platforms#salesforce",
+      "headings": [
+        "Platforms",
+        "Salesforce",
+        "CX & Service"
+      ],
+      "content": "Salesforce implementations for customer engagement, proactive service, and field operations; includes AMI-to-case routing and notifications."
+    },
+    {
+      "url": "https://bhcglobal.com/platforms#data",
+      "headings": [
+        "Data & Cloud",
+        "Architecture",
+        "Accelerators"
+      ],
+      "content": "Modern data stack design for utilities — cloud data warehouses, feature stores, semantic layers, and low-latency event processing for AMI-driven use cases."
+    },
+    {
+      "url": "https://bhcglobal.com/resources#case-studies",
+      "headings": [
+        "Resources",
+        "Case Studies"
+      ],
+      "content": "Examples of delivered outcomes include reduced high bill complaints, faster outage verification, and improved meter performance KPIs."
+    },
+    {
+      "url": "https://bhcglobal.com/contact",
+      "headings": [
+        "Contact",
+        "Let’s Talk"
+      ],
+      "content": "Reach out for RFPs, accelerators, and discovery workshops. info@bhcglobal.com, 1-800-253-3449."
+    },
+    {
+      "url": "https://bhcglobal.com/privacy",
+      "headings": [
+        "Privacy Policy"
+      ],
+      "content": "BHC respects data privacy and uses reasonable safeguards for data collected via its website and services."
+    },
+    {
+      "url": "https://bhcglobal.com/terms",
+      "headings": [
+        "Terms of Use"
+      ],
+      "content": "Terms governing the use of the BHC website and related materials."
+    }
+  ]
+  
